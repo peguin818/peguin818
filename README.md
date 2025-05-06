@@ -29,24 +29,20 @@
 
 ## About Me
 - 🌱 I’m currently learning Spring Boot, Spring Security.
-- 💼 I’m working at [Golden Cloud Solutions](https://goldencloudsolutions.com/).
 - 📫 How to reach me: [pcc1327@gmail.com](mailto:pcc1327@gmail.com)
 - ⚡ Fun fact: I'm a bassist and enjoy listening to rock and metal music (and jazz, and pop, and everything!) 🎸
 
 ## Technologies & Tools
-- Programming Languages: Java, SQL, TypeScript
-- Frameworks: Spring Boot, NestJS
-- IDEs: IntelliJ IDEA, WebStorm, and Visual Studio Code
-- Databases: MySQL, PostgreSQL, MongoDB
-- Version Control: Git, GitHub
+- Backend: Spring Boot, Spring Cloud, NestJS, Microservices, RESTful APIs
+- Frontend & UI: HTML, CSS, Bootstrap, TypeScript
+- Database & Testing: PostgreSQL, MySQL, MongoDB, Mockito, JUnit, Jest
+- Development Tools: Git, Github, Github Copilot, Postman, Swagger, Jira, ClickUp
+- Cloud & Infrastructure: AWS EC2
+- Learning: API Gateway, Circuit Breaker, Redis, Docker, Kubernetes, CI/CD, Zipkin
 
 ## GitHub Stats
 | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=peguin818&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  | ![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peguin818&show_icons=true&theme=radical) | ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peguin818&hide=html&hide_border=true&layout=compact&langs_count=6&theme=radical) |
 | ------------- | ------------- | ------------- |
-
-## My noteable project
-### [Greenwich's Hall of Contributions](https://github.com/Alanle1011/gwbackend-1640)
-Greenwich's Hall of Contributions Backend Service for managing student's contributions, users, and comments
 
 ## Certifications
 - TOEIC: 975
