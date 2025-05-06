@@ -28,7 +28,7 @@
 </div>
 
 ## About Me
-- 🌱 I’m currently learning Spring Boot, Spring Security.
+- 🌱 I’m currently learning Spring Cloud, API Gateway, Circuit Breaker, Redis, Docker, Kubernetes, CI/CD, Zipkin.
 - 📫 How to reach me: [pcc1327@gmail.com](mailto:pcc1327@gmail.com)
 - ⚡ Fun fact: I'm a bassist and enjoy listening to rock and metal music (and jazz, and pop, and everything!) 🎸
 
